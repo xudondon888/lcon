@@ -2,10 +2,7 @@
   "name": "浥轻尘群组",
   "description": "群内适配气球图标显示，部分不用合集显示优化",
   "icons": [
-    {
-      "name": "Whale-search-1001",
-      "url": "https://raw.githubusercontent.com/xudondon888/lcon/%E4%B8%BB%E8%A6%81/loon/IMG_4208.png"
-    },
+ 
     {
       "name": "Whale-search-1002",
       "url": "https://raw.githubusercontent.com/xudondon888/lcon/%E4%B8%BB%E8%A6%81/loon/IMG_4209.png"
